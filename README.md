@@ -1,5 +1,7 @@
 # Redux Saga Example
 
+This fork status: [![Build Status](https://travis-ci.org/icyJoseph/async-redux-saga.svg?branch=master)](https://travis-ci.org/icyJoseph/async-redux-saga)
+
 Forked from: [async-redux-saga](https://github.com/andresmijares/async-redux-saga)
 
 This version uses `react 16.8`, `react-redux 6.0.1`, `redux 4.0.1`, and most importantly `redux-saga 1.0.2`.
