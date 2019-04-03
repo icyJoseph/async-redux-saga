@@ -11,7 +11,13 @@ class App extends React.Component {
               href="https://github.com/andresmijares/async-redux-saga"
               target="_new"
             >
-              Check the repo here
+              Check the <code>original</code> repo here
+            </a>
+            <a
+              href="https://github.com/icyJoseph/async-redux-saga"
+              target="_new"
+            >
+              Check the <code>update</code> repo here
             </a>
           </div>
         </div>
