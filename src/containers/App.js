@@ -5,19 +5,21 @@ class App extends React.Component {
     return (
       <div className="container-fluid">
         <div className="container">
+          <div className="row">{this.props.children}</div>
           <div className="row">
-            {this.props.children}
             <a
               href="https://github.com/andresmijares/async-redux-saga"
               target="_new"
             >
               Check the <code>original</code> repo here
             </a>
+          </div>
+          <div className="row">
             <a
               href="https://github.com/icyJoseph/async-redux-saga"
               target="_new"
             >
-              Check the <code>update</code> repo here
+              Check the <code>updated</code> repo here
             </a>
           </div>
         </div>
